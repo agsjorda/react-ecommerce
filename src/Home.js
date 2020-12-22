@@ -11,7 +11,7 @@ export const Home = () => (
       <Carousel.Item interval={1000}>
         <img className="d-block w-100 h-10" src={img1} alt="First slide" />
         <Carousel.Caption>
-          <h3>shulolololo</h3>
+          <h3>asd</h3>
           <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
         </Carousel.Caption>
       </Carousel.Item>
